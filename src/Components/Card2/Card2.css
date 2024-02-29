@@ -1,0 +1,38 @@
+.new-arrival-container{
+    background-color: white;
+    height: 100%;
+}
+.new-arrival-cart{
+    margin: 1rem;
+    max-width: 250px;
+    min-height: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.new-arrival-cart-img{
+    max-width: 250px;
+    width: 300px;
+    /* transform: rotate(-30deg); */
+    transition: .7s ease;
+}
+
+/* .new-arrival-cart:hover{
+    .new-arrival-cart-img{
+        transform: rotate(-30deg);
+    }
+} */
+.new-arrival-description{
+   border-top: 1px solid black;
+   padding: 8px;
+}
+.new-arrival-icon{
+    color: rgb(243, 203, 4);
+}
+.new-arrival-title{
+   font-size: 2rem;
+}
+
+.new-arrival-card-flex{
+    display: flex;
+    flex-wrap: wrap;
+}

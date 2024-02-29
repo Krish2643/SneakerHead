@@ -1,0 +1,24 @@
+
+.new-arrival-banner{
+display: flex;
+
+}
+.new-arrival-img1{
+    margin-bottom: 5.5rem;
+}
+.new-arrival-img2_1{
+    margin-top: 5.5rem;
+}
+.img{
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+.new-arrival-best-selling{
+    /* font-family: "Black Ops One", system-ui; */
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 2.5rem;
+    margin-left: 2rem;
+}
+
