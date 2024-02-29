@@ -14,9 +14,6 @@ const NavBar = () => {
       signOut();
   }
   
-  // useEffect(()=>{
-
-  // }, [isLogin])
 
   const {
     isEmpty,

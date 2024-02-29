@@ -44,7 +44,7 @@ const Signin = () => {
            })
      
           localStorage.setItem('isLogin', true);
-          navigate('/men', {replace: true});
+          navigate('/', {replace: true});
           window.location.reload(false);
         
        })
